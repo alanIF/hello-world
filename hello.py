@@ -1,1 +1,1 @@
-print("Hellow guys, my first program in Visual Studio, with pytohn!")
+print("Hellow guys, my first program in Visual Studio, with python!")
