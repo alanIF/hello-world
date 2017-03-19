@@ -1,1 +1,3 @@
-print("Hellow guys, my first program in Visual Studio, with python!")
+class myClass:
+    print("hello Word")
+hello = myClass()
