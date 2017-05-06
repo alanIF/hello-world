@@ -1,3 +1,3 @@
 class myClass:
-    print("hello Word")
+    print("hello Word Alan Tavares")
 hello = myClass()
